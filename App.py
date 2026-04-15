@@ -189,7 +189,7 @@ Thanks for choosing Puerto Rico as your vacation destination. This island is ful
 - Guajataca Beach (Quebradillas): Famous for its strong currents.
 - Playa Escondida (Fajardo): High risk of strong currents.
 
-- Please remember that any beach can be dangerous do to many factors and you should always have precaution when swiming. 
+‼️ Please remember that any beach can be dangerous do to many factors and you should always have precaution when swiming ‼️
 
 🚗 **Transportation & Driving**
 - Roads can be narrow, busy, or winding, especially in rural areas. Drive carefully and avoid nighttime travel in unfamiliar places.
