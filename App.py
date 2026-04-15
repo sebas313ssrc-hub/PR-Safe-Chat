@@ -161,6 +161,7 @@ if st.session_state.get("entered"):
 
             st.write(" \n\n ")
 
+            st.subheader(f"Safety Beach Map for Today\n\n")
             st.write(" Aditionally this is a real life scale map of the current state of beachess in Puerto Rico: \n\n")
 
             image_url = "https://www.weather.gov/images/sju/ghwo/RipRiskDay1.jpg"
