@@ -159,8 +159,6 @@ if st.session_state.get("entered"):
             for tip in info["tips"]:
                 st.write(f"- {tip}")
 
-            st.write(" \n\n ")
-
             st.subheader(f"Safety Beach Map for Today\n\n")
             st.write(" Aditionally this is a real life scale map of the current state of beaches in Puerto Rico: \n\n")
 
