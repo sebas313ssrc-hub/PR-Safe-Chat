@@ -159,13 +159,15 @@ if st.session_state.get("entered"):
             for tip in info["tips"]:
                 st.write(f"- {tip}")
 
-            st.write(" \n\n\n\n ")
+            st.write(" \n\n ")
 
-            st.write(" Aditionally this is a real life scale map of the current state of beachess in Puerto Rico:
+            st.write(" Aditionally this is a real life scale map of the current state of beachess in Puerto Rico: \n\n")
 
             image_url = "https://www.weather.gov/images/sju/beach/beach_risk.png"
 
             st.image(image_url, caption="NWS Beach Risk Map - San Juan")
+
+            st.write(" \n\n\n\n ")
 
             if st.button("'Click Me' When you get to Puerto Rico"):
                 st.session_state["in_pr"] = True
