@@ -161,6 +161,12 @@ if st.session_state.get("entered"):
 
             st.write(" \n\n\n\n ")
 
+            st.write(" Aditionally this is a real life scale map of the current state of beachess in Puerto Rico:
+
+            image_url = "https://www.weather.gov/images/sju/beach/beach_risk.png"
+
+            st.image(image_url, caption="NWS Beach Risk Map - San Juan")
+
             if st.button("'Click Me' When you get to Puerto Rico"):
                 st.session_state["in_pr"] = True
 
