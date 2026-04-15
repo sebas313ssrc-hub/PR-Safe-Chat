@@ -176,6 +176,21 @@ Thanks for choosing Puerto Rico as your vacation destination. This island is ful
 - Hurricane season runs from June to November. If you’re visiting during this time, keep an eye on weather updates and follow local guidance.
 - Beaches can have strong currents, especially on the north and west coasts. Swim only in designated safe areas and follow lifeguard instructions when available.
 
+– 🛟 Safest and Calmest Beaches (Ideal for swimming):  
+       • Playa Caracas (Vieques): Known for its crystal‑clear, calm waters and family‑friendly vibe.
+       • Playa Combate (Cabo Rojo): Calm, shallow waters on the southwest coast.
+       • Boquerón Beach (Cabo Rojo): Large beach with protected areas and available services.
+       • Isla Verde (Carolina): Very popular, with wide swimming areas and lifeguards.
+       • Punta Guilarte Beach (Arroyo): Southern coast, calm waters.
+
+– ⚠️ Most Dangerous Beaches (High risk of rip currents):  
+       • Mar Chiquita (Manatí): Beautiful but has a dangerous opening to the open sea.
+       • Poza de las Mujeres (Manatí): Known for unpredictable, strong currents.
+       • Guajataca Beach (Quebradillas): Famous for its strong currents.
+       • Playa Escondida (Fajardo): High risk of strong currents.
+
+- Please remember that any beach can be dangerous do to many factors and you should always have precaution when swiming. 
+
 🚗 **Transportation & Driving**
 - Roads can be narrow, busy, or winding, especially in rural areas. Drive carefully and avoid nighttime travel in unfamiliar places.
 - If you’re renting a car, always lock your doors and avoid leaving valuables inside.
